@@ -68,7 +68,7 @@
 <h2>Configurar la autenticación de dos factores</h2>
 
 
-1. Descargar la aplicación de **"Autenticador de Google"**.
+1. Descargar la aplicación de **"Autenticador de Google"** en tu celular.
 2. Ingresa a GitHub con tu cuenta
 
 1. En la esquina superior derecha de cualquier página, haz clic en la foto del perfil y, luego, en Settings. 
