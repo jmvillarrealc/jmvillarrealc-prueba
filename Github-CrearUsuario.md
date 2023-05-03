@@ -16,7 +16,7 @@
 
    1. Colocamos un **nombre de usuario** luego le damos a continuar.
 
-   1. Nos preguntará si queremos recibir información por correo si la respuesta es si colocamos "y" en caso de ser no colocamos "n".
+   1. Nos preguntará si queremos recibir información por correo si la respuesta es si colocamos "y" en caso contario colocamos "n".
 
    1. Para verificar nuestra cuenta nos pedirá resolver un ejercicio donde debemos identificar dos objetos iguales dentro de una imagen.
 
