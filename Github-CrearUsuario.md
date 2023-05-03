@@ -1,5 +1,7 @@
 <h1>Crear cuenta en Github</h1>
 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px">
+
 1- Primero ingresamos al siguiente link **"https://github.com/".**
 
 2- En la esquina superior derecha encontraremos el boton de **sign up** le damos click.
@@ -23,6 +25,8 @@
 1- Para *crear un repositorio* debemos ingresar a nuestra cuenta.
 
 2- En la izquierda tenemos una barra lateral donde abajo de la barra de navegación dice **"top repositories"** a un lado de ese titulo hay un boton verde que dice *NEW o NUEVO*, le damos click.
+<img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2019/04/create-repository-github.png" width="1000px">
+
 
 3- Nos mandara a otra página en la cual podemos elegir el **nombre del repositorio.**
 
