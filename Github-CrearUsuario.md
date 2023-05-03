@@ -30,7 +30,7 @@
 <img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2019/04/create-repository-github.png" width="1000px">
 
 
-1. Nos mandará a otra página en la cual podemos elegir el **nombre del repositorio.**
+1. Nos mandará a otra página en la cual podemos elegir el **"nombre del repositorio."**
 
 1. También podemos poner una *breve descripción* de lo que habrá en ese repositorio.
 
@@ -45,12 +45,12 @@
 
 1. Ingresamos a nuestra cuenta de *GitHub*.
 
-3. Damos clic en la esquina superior derecha y accedemos al apartado de **Settings**
+3. Damos clic en la esquina superior derecha y accedemos al apartado de **"Settings"**
 
 
-1. Dentro de la pantalla de **Settings** tenemos un menú en el lado izquierdo donde tenemos que buscar el apartado de **Developer Settings**
+1. Dentro de la pantalla de **"Settings"** tenemos un menú en el lado izquierdo donde tenemos que buscar el apartado de **"Developer Settings"**
 
-1. Nos mandará a otra página, ahí le damos clic a la opción **Personal access tokens**
+1. Nos mandará a otra página, ahí le damos clic a la opción **"Personal access tokens"**
 
 1. Damos clic a la opción *generate new token* 
 
