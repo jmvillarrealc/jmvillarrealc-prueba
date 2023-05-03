@@ -1,20 +1,21 @@
-------------------Crear cuenta en Github------------------
+#Crear cuenta en Github
 
-1- Primero ingresamos al siguiente link "https://github.com/".
+1- Primero ingresamos al siguiente link **"https://github.com/".**
 
-2- En la esquina superior derecha encontrareoms el boton de sign up le damos click.
+2- En la esquina superior derecha encontraremos el boton de **sign up** le damos click.
 
-3- Primero ingresamos nuestro email "example@example.com" le damos a continuar.
+3- Primero ingresamos nuestro **email** *"example@example.com"* le damos a continuar.
 
-4- Ingresamos una contraseña que cuente con el nivel de seguridad requerido, debera aparecer tres lineas verdes y una leyenda que diga "Password is strong", damos click en continuar.
+4- Ingresamos una **contraseña** que cuente con el nivel de seguridad requerido, debera aparecer tres lineas verdes y una leyenda que diga *"Password is strong"*
+   ,damos click en continuar.
 
-5- Colocamos un nombre de usuario luego le damos a continuar.
+5- Colocamos un **nombre de usuario** luego le damos a continuar.
 
-6- nos preguntara si queremos recibir información por correo si la respuesta es si colocamos "y" en caso de ser no colocamos "n".
+6- Nos preguntara si queremos recibir información por correo si la respuesta es si colocamos "y" en caso de ser no colocamos "n".
 
 7- Para verficiar nuestra cuenta nos pedira resolver un ejercicio donde debemos identificar dos objetos iguales dentro de una imagen.
 
-8-Por ultimo damos en crear cuenta y nos pedira un código que llegara a nuestro correo electronico.
+8-Por ultimo damos en crear cuenta y nos pedira un *código que llegara a nuestro correo electronico.*
 
 
 ------------------Crear un repositorio en Github------------------
