@@ -23,7 +23,7 @@
 
 6. Cuando ya tengas todos tus datos das clic en continue.
 
-7. Después debes *seleccionar la casilla de **"I am human"** te pedirá seleccionar un tipo de imagenes.
+7. Después debes seleccionar la casilla de **"I am human"** te pedirá seleccionar un tipo de imagenes.
 
 8. Luego te pedirá que verifiques tu correo, deberás ingresar a tu correo y buscar algún correo de Discord donde vendrá un botón que dice verificar, le das clic y ya quedara verificado.
 
