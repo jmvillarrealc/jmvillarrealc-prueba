@@ -1,4 +1,4 @@
-#Crear cuenta en Github
+<h1>Crear cuenta en Github</h1>
 
 1- Primero ingresamos al siguiente link **"https://github.com/".**
 
@@ -17,12 +17,20 @@
 
 8-Por ultimo damos en crear cuenta y nos pedira un *código que llegara a nuestro correo electronico.*
 
+-----------------------------------------------------------------------------------------------------
+<h1>Crear un repositorio en Github</h1>
 
-------------------Crear un repositorio en Github------------------
-1- Para crear un repositorio debemos ingresar a nuestra cuenta.
-2- En la izquierda tenemos una barra lateral donde abajo de la barra de navegación hay unas letras en negritas que dicen "top repositories" a un lado de ese titulo hay un boton verde que dice NEW o NUEVO, le damos click.
-3- Nos mandara a otra página en la cual podemos elegir el nombre del repositorio.
-4- Tambien podemos poner una breve descripción de lo que habrá en ese repositorio.
+1- Para *crear un repositorio* debemos ingresar a nuestra cuenta.
+
+2- En la izquierda tenemos una barra lateral donde abajo de la barra de navegación dice **"top repositories"** a un lado de ese titulo hay un boton verde que dice *NEW o NUEVO*, le damos click.
+
+3- Nos mandara a otra página en la cual podemos elegir el **nombre del repositorio.**
+
+4- Tambien podemos poner una *breve descripción* de lo que habrá en ese repositorio.
+
 5- Da la opción de elegir si es un repositorio publico o uno privado, damos click dependiendo de cual sea el caso.
-6- Podemos agregar un archivo README si damos click al check.
+
+6- Podemos agregar un archivo *README* si damos click al check.
+
 7- Por ultimo damos click al boton verde que se encuentra al final de la página y que dice "Crear repositorio".
+
