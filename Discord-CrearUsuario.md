@@ -14,12 +14,12 @@
    *Log In*.
 4. Dando *clic en "Register"* te mandará a una nueva página donde colocaras los siguientes datos:
 
-- email 
-- username 
-- password 
-- fecha de cumpleaños
+- Email 
+- Username 
+- Password 
+- Fecha de cumpleaños
  
-5. Si quieres que Discord te mande mensajes al correo electrónico, debes dar check al botón que está abajo de la fecha de cumpleaños (Este paso es opcional).
+5. Si quieres que Discord te mande mensajes al correo electrónico con noticias sobre la aplicaicón, debes dar check al botón que está abajo de la fecha de cumpleaños (Este paso es opcional).
 
 6. Cuando ya tengas todos tus datos das clic en continue.
 
