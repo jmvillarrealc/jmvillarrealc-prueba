@@ -1,16 +1,22 @@
 <h1>Como crear un usuario en Discord</h1>
 
+
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="100px">
+
+
 1. Ingresamos a la siguiente página: *https://discord.com/*
 
-2. Si ya cuentas con una cuenta puedes ingresar a ella dando click al botón que se encuentra en la esquina derecha superior donde dice "Login".
+2. Si ya cuentas con una cuenta puedes ingresar a ella dando click al botón que se encuentra en la esquina derecha superior donde dice **"Login".**
 
 3. Si no tienes cuenta puedes darle click a "Register" que se encuentra abajo del botón
    *Log In*
 4.Dando *click en "Register"* te mandara a una nueva página donde colocaras los siguientes datos:
- -email
- -username
- -password
- -fecha de cumpleaños
+
+  +email 
+  
+  +username 
+  
+  +password fecha de cumpleaños
  
 5. Si quieres que Discord te mande mensajes al correo electronico debes dar check al boton que esta abajo de la fecha de cumpleaños (Este paso es opcional).
 
