@@ -1,7 +1,7 @@
-<h1 style="aling-items">Github</h1>
+<h1 style="aling-items">GitHub</h1>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="300px">
 
-<h2>Crear cuenta en Github</h2>
+<h2>Crear cuenta en GitHub</h2>
 
 
 
@@ -30,7 +30,7 @@
 <img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2019/04/create-repository-github.png" width="1000px">
 
 
-1. Nos mandará a otra página en la cual podemos elegir el **"nombre del repositorio."**
+1. Nos mandará a otra página en la cual podemos elegir el **"nombre del repositorio"**.
 
 1. También podemos poner una *breve descripción* de lo que habrá en ese repositorio.
 
@@ -38,7 +38,7 @@
 
 3. Podemos agregar un archivo *README* si damos clic al check.
 
-4. Por último damos clic al botón verde que se encuentra al final de la página y que dice "Crear repositorio".
+4. Por último damos clic al botón verde que se encuentra al final de la página que dice "Crear repositorio".
 
 -----------------------------------------------------------------------------------------------------
 <h2>Crear un token de seguridad</h2>
