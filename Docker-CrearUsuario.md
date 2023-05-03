@@ -13,7 +13,7 @@
    - Email
    - Password
    
-4. Damos clic en el check de *privacidad y política*
+4. Damos clic en el check de *privacidad y política*.
 
 5. Damos clic en No soy un robot.
 
