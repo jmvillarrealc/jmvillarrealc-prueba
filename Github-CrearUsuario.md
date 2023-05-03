@@ -11,7 +11,7 @@
 
 <img src="https://www.mclibre.org/consultar/informatica/img/git/github-crear-cuenta-03.png" width="800px">
 
-   1. Primero ingresamos nuestro **email** *"example@example.com"* le damos a continuar.
+   2. Primero ingresamos nuestro **email** *"example@example.com"* le damos a continuar.
    1. Ingresamos una **contraseña** que cuente con el nivel de seguridad requerido, deberá aparecer tres líneas verdes y una leyenda que diga *"Password is strong"*, damos clic en continuar.
 
    1. Colocamos un **nombre de usuario** luego le damos a continuar.
@@ -75,8 +75,8 @@
 2. En la sección *"Acceso"* de la barra lateral, haz clic en **"Contraseña y autenticación"**.
 
 3. En la sección **"Autenticación en dos fases"** de la página, haz clic en habilitar la autenticación en dos fases.
-4. En **"Configuración de la aplicación autenticadora"**, realiza una de las siguientes acciones:
-- Escanea el código QR con la app del dispositivo móvil.
-- Ingresa el código de seis dígitos que te muestra la app para que puedes ingresar en GitHub.
+4. En **"Configuración de la aplicación autenticadora"**, realizarás las siguientes acciones:
+   - Escanea el código QR con la app del dispositivo móvil.
+   - Ingresa el código de seis dígitos que te muestra la app para que puedes ingresar en GitHub.
 
 <img src="https://docs.github.com/assets/cb-42088/mw-1440/images/help/2fa/2fa-wizard-app-click-code.webp" width="1000px">
