@@ -5,6 +5,7 @@
 
 <h1>Como crear un usuario en Discord</h1>
 
+<img src="https://internetpasoapaso.com/wp-content/uploads/3-116.jpg" width="1000px">
 
 1. Ingresamos a la siguiente página: *https://discord.com/*.
 
@@ -30,3 +31,10 @@
 9. Puedes acceder a discord desde tu navegador web o descargando la aplicación en tu computadora. Para descargarlo da clic a este link https://discord.com/ y seleccionas "Download for [tu sistema operativo]".
 
 
+<h1>Ingresar a un servidor</h1>
+
+1. Ingresarmos a Discord desde la aplicación de escritorio.
+2. En la derecha contamos con una columna de servidores, al final tenemos el signo de **"+"**, le damos clic.
+3. si contamos con un enlace de invitación, debenos pegarlo y pulsar **"Join"**.
+
+<img src="https://support.discord.com/hc/article_attachments/360040130111/4.png" width="1000px">
