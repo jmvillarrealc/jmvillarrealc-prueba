@@ -1,21 +1,25 @@
-<h1>Crear cuenta en Docker</h1>
+<h1>Docker</h1>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"  width="300px">
 
-1- Ingresamos al siguiente link *"https://hub.docker.com/".*
 
-2- En la esquina superior en el apartado de Register para crear una cuenta.
+<h2>Crear cuenta en Docker</h2>
 
-3- Nos pedira los siguientes datos:
+1. Ingresamos al siguiente link *"https://hub.docker.com/".*
+
+2. En la esquina superior en el apartado de Register para crear una cuenta.
+
+3. Nos pedirá los siguientes datos:
    - Nombre de usuario
    - Email
    - Password
    
-4- Damos click en el check de *privacidad y politica*
+4. Damos clic en el check de *privacidad y política*
 
-5- Damos click en No soy un robot.
+5. Damos clic en No soy un robot.
 
-6- Seleccionamos las imagenes que nos piden y damos click en verificar.
+6. Seleccionamos las imágenes que nos piden y damos clic en verificar.
 
-7- Damos click en Sing Up.
+7. Damos clic en Sing Up.
 
-8- Debemos verificar nuestro correo electronico, ingresando a el y buscando un correo de Docker.
+8. Debemos verificar nuestro correo electrónico, ingresando a él y buscando un correo de Docker.
 
