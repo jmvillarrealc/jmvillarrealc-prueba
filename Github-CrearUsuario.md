@@ -69,10 +69,10 @@
 
 
 1. Descargar la aplicación de **"Autenticador de Google"** en tu celular.
-2. Ingresa a GitHub con tu cuenta
+2. Ingresa a GitHub con tu cuenta.
 
 1. En la esquina superior derecha de cualquier página, haz clic en la foto del perfil y, luego, en Settings. 
-2. En la sección *"Acceso"* de la barra lateral, haz clic en **"Contraseña y autenticación."**
+2. En la sección *"Acceso"* de la barra lateral, haz clic en **"Contraseña y autenticación"**.
 
 3. En la sección **"Autenticación en dos fases"** de la página, haz clic en habilitar la autenticación en dos fases.
 4. En **"Configuración de la aplicación autenticadora"**, realiza una de las siguientes acciones:
