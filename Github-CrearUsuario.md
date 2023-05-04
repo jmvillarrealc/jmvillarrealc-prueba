@@ -73,7 +73,7 @@
 4. En la sección *"Acceso"* de la barra lateral, haz clic en **"Contraseña y autenticación"**.
 5. En la sección **"Autenticación en dos fases"** de la página, haz clic en habilitar la autenticación en dos fases.
 6. En **"Configuración de la aplicación autenticadora"**, realizarás las siguientes acciones:
-   - Escanea el código QR con la app del dispositivo móvil.
-   - Ingresa el código de seis dígitos que te muestra la app para que puedes ingresar en GitHub.
+   1. Escanea el código QR con la app del dispositivo móvil.
+   2. Ingresa el código de seis dígitos que te muestra la app para que puedes ingresar en GitHub.
 
 <img src="https://docs.github.com/assets/cb-42088/mw-1440/images/help/2fa/2fa-wizard-app-click-code.webp" width="1000px">
